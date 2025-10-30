@@ -1,2 +1,2 @@
 # Praktikum-Pemweb
-![Tampilan Website](Tampilan About.png)
+![Tampilan Halaman About](Tampilan%20About.png)
